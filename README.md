@@ -1,4 +1,4 @@
-# CoolShopping
+# My Shopping
 一个仿拉手团购的购物App，采用Bmob后台实现短信验证码注册、登录、收藏、订单管理、自动更新等功能，数据抓取自拉手团购
 
 # Library
@@ -11,20 +11,6 @@
  - 自定义ScrollView
  - 自定义字母索引侧滑栏
  - ShareSDK第三方登录、分享
-
-# ScreenShots
-<img src="ScreenCapture/0.png" width="20%" />
-<img src="ScreenCapture/2.png" width="20%" />
-<img src="ScreenCapture/4.png" width="20%" />
-<img src="ScreenCapture/6.png" width="20%" />
-<img src="ScreenCapture/7.png" width="20%" />
-<img src="ScreenCapture/11.png" width="20%" />
-<img src="ScreenCapture/14.png" width="20%" />
-<img src="ScreenCapture/17.png" width="20%" />
-<img src="ScreenCapture/22.png" width="20%" />
-<img src="ScreenCapture/23.png" width="20%" />
- 
-### [更多](https://github.com/myxh/CoolShopping/tree/master/ScreenCapture)
  
 # License
 >Copyright 2016 myxh
